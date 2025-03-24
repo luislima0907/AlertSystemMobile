@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "91159648115",
+    "firebase_url": "https://alertsystem-eb11d-default-rtdb.firebaseio.com",
+    "project_id": "alertsystem-eb11d",
+    "storage_bucket": "alertsystem-eb11d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91159648115:android:fc2fcaf90b388fdf8d1706",
+        "android_client_info": {
+          "package_name": "gt.edu.miumg.luis.alertsystemappmovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aKSV8VBCwX02mulIYPT8G3WsPgBtJb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
